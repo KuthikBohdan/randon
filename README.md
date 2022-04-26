@@ -4,7 +4,7 @@
   ...
 </script> 
 <script type="тип" src="URL"></script>
-    </head>
+        </head>
     <div id="page0" class="screenpage">1
     <div class="close">close</div>
 </div>
