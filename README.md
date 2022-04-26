@@ -1,4 +1,11 @@
-<div id="page0" class="screenpage">1
+<html>
+  <head>
+<script type="тип">
+  ...
+</script> 
+<script type="тип" src="URL"></script>
+    </head>
+    <div id="page0" class="screenpage">1
     <div class="close">close</div>
 </div>
 <div id="page1" class="screenpage">2
@@ -28,3 +35,4 @@
 <div id="page9" class="screenpage">10
     <div class="close">close</div>
 </div>
+</html>
